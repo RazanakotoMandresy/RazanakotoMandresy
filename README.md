@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center" >Hi there! 👋 I'm Razanakoto Mandresy 🇲🇬</h1>
+<p align="center">
+  <img src="./gif.webp"
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RazanakotoMandresy" alt="RazanakotoMandresy" /> </p>
 
-<!--
-**RazanakotoMandresy/RazanakotoMandresy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+#### 🚀 About Me
+
+I am a young developer who loves coding and is very interested in DevSecOps and MlSecOps. My passion lies in exploring the intersection of development and security.
+
+---
+#### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazanakotoMandresy&show_icons=true&theme=calm_pink)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazanakotoMandresy&layout=compact&theme=calm_pink)
+
+---
