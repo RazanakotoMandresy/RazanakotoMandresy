@@ -1,6 +1,6 @@
 <h1 align="center" >Hi there! 👋 I'm Razanakoto Mandresy 🇲🇬</h1>
 <p align="center">
-  <img src="./gif.webp"
+  <img src="./gif2.webp"
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RazanakotoMandresy" alt="RazanakotoMandresy" /> </p>
 
