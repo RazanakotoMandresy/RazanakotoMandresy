@@ -29,7 +29,6 @@ I am a young developer who loves coding and is very interested in DevSecOps and 
 
 #### 📫 How to Reach Me
 
-- ![Phone Icon](https://img.shields.io/badge/Phone-%23E4405F.svg?style=for-the-badge&logo=phone&logoColor=white) **Phone**: 0347180577
 - ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) **LinkedIn**: [RazananakotoMandresy](https://www.linkedin.com/in/razanakoto-mandresy-0227b22a6/)
 - ![Email Icon](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) **Email**: gutsshinomia@gmail.com
 - ![Email Icon](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) **Email**: razanakotomandresy@gmail.com 
