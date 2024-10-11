@@ -22,10 +22,8 @@ I am a young developer who loves coding and is very interested in DevSecOps and 
 
 ---
 #### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazanakotoMandresy&show_icons=true&theme=calm_pink)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazanakotoMandresy&layout=compact&theme=calm_pink)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazanakotoMandresy&langs_count=8&show_icons=true&theme=transparent)
+![Mandresy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazanakotoMandresy&show_icons=true&theme=transparent)
 ---
 
 #### 📫 How to Reach Me
