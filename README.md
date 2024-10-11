@@ -1,9 +1,10 @@
-<h1 align="center" >Hi there! 👋 I'm Razanakoto Mandresy 🇲🇬</h1>
 <p align="center">
-  <img src="./gif2.webp"
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=62A4F7&width=435&lines=Hi+there!+%F0%9F%91%8B++I'm+Razanakoto+Mandresy+%F0%9F%87%B2%F0%9F%87%AC;I'm+primarily+a+Go+and+TypeScript+developer%2C+but+I+also+dabble+in+DevSecOps." alt="Typing SVG" /></a>
+<p/>
+<p align="center">
+  <img src="./gif2.webp"/>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RazanakotoMandresy" alt="RazanakotoMandresy" /> </p>
-
 #### 🔧 Technologies & Tools
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
