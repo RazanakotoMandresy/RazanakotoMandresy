@@ -21,11 +21,19 @@
 I am a young developer who loves coding and is very interested in DevSecOps and MlSecOps. My passion lies in exploring the intersection of development and security.
 
 ---
+
 #### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazanakotoMandresy&langs_count=8&show_icons=true&theme=transparent)
 ![Mandresy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazanakotoMandresy&show_icons=true&theme=transparent)
 ---
-
+<p align="center">
+    <a href="https://ossinsight.io/analyze/RazanakotoMandresy">
+        <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RazanakotoMandresy&theme=vue&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" >
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazanakotoMandresy&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">            
+        </picture>
+    </a>
+</p>
 #### 📫 How to Reach Me
 
 - ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) **LinkedIn**: [RazananakotoMandresy](https://www.linkedin.com/in/razanakoto-mandresy-0227b22a6/)
